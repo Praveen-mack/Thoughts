@@ -2,7 +2,7 @@
 
 # Thoughts
 
-Thoughts is a social media iOS application developed only for iOS users, motive of this app is to share your thooughts in social media and response from other users,
+Thoughts is a social media iOS application developed only for iOS users, motive of this app is to share your thoughts in social media and response from other users,
 and user can upload thier thoughts on online, the backend we use for this application is firebase realtime database.
 
 # Screenshots
